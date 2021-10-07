@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas
 
-<img align='right' src="https://github.com/lucsoliver/lucsoliver-main/blob/master/7819a7bc7fc9211ee6740f167ad6392d--anime-guys-hot-anime-removebg-preview.png" width="200">
+<img align='right' src="https://github.com/lucsoliver/lucsoliver/blob/master/7819a7bc7fc9211ee6740f167ad6392d--anime-guys-hot-anime-removebg-preview.png" width="200">
 <p><em> I am a front-end developer.</a>
 </em></p>
  
