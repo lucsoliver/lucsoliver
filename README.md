@@ -2,7 +2,7 @@
 
 <img align='right' src="https://github.com/lucsoliver/lucsoliver-main/blob/master/7819a7bc7fc9211ee6740f167ad6392d--anime-guys-hot-anime.jpg" width="200">
 <p><em> I am a front-end developer.</a>
- </em></p>
+</em></p>
  
 <p align="left">
 Languages and Skills: <strong>CSS, HTML, JS, Material-ui,
@@ -20,7 +20,7 @@ Bootstrap, React, React Native, React Native Elements, Expo. </strong>
 
 <div>
   <a href="https://github.com/lucsoliver"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucsoliver&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
+   </div>
 <!--
 **lucsoliver/lucsoliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
