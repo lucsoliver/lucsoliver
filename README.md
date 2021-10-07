@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas
 
-<img align='right' src="https://i.pinimg.com/236x/78/19/a7/7819a7bc7fc9211ee6740f167ad6392d--anime-guys-hot-anime.jpg" width="230">
+<img align='right' src="https://i.pinimg.com/236x/78/19/a7/7819a7bc7fc9211ee6740f167ad6392d--anime-guys-hot-anime.jpg" width="210">
 <p><em> I am a front-end developer.</a>
  </em></p>
  
