@@ -5,7 +5,7 @@
 </em></p>
  
 <p align="left">
-Languages: <strong>CSS, HTML, JS, Material-UI,
+Languages and skills: <strong>CSS, HTML, JS, Material-UI,
 Bootstrap, React, React Native, React Native Elements, Expo. </strong>
 </p>
 
