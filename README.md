@@ -1,12 +1,13 @@
+<img align='right' src="https://github.com/lucsoliver/lucsoliver/blob/master/7819a7bc7fc9211ee6740f167ad6392d--anime-guys-hot-anime-removebg-preview.png" width="200">
+
 ### Olá, sou o Lucas :)
 
-<img align='right' src="https://github.com/lucsoliver/lucsoliver/blob/master/7819a7bc7fc9211ee6740f167ad6392d--anime-guys-hot-anime-removebg-preview.png" width="200">
 <p><em>Front-end developer</a>
 </em></p>
  
 <p align="left">
-Languages and skills: <strong>CSS, HTML, JS, Material-UI,
-Bootstrap, React, React Native, React Native Elements, Expo. </strong>
+Languages and tools: <strong>HTML, CSS, JS, React, React Native, React Native Elements, Expo, Material-UI,
+Bootstrap. </strong>
 </p>
 
 <p align="left">
@@ -17,7 +18,7 @@ Bootstrap, React, React Native, React Native Elements, Expo. </strong>
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lyunnee)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasolvp) 
 
-
+![](https://komarev.com/ghpvc/?username=lucsoliver)
 <!-- <div>
   <a href="https://github.com/lucsoliver"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucsoliver&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </div> --->
