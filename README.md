@@ -6,7 +6,7 @@
 </em></p>
  
 <p align="left">
-Languages and tools: <strong>HTML, CSS, JS, React, React Native, React Native Elements, Expo, Material-UI,
+Linguagens e ferramentas: <strong>HTML, CSS, JS, React, React Native, React Native Elements, Expo, <br>Material-UI,
 Bootstrap. </strong>
 </p>
 
