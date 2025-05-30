@@ -18,9 +18,15 @@
 <br><br>
 
 ### Minhas redes sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-paula/)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasolvp) 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lyunnee)
+<a href="https://www.linkedin.com/in/lucas-oliveira-paula/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="https://www.instagram.com/lucasolvp" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a>
+<a href="https://twitter.com/lyunnee" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+</a>
 
 <!--- ![](https://komarev.com/ghpvc/?username=lucsoliver) --->
 </div>
