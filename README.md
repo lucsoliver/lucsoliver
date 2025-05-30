@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=100&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Bem-vindo(a)+ao+meu+perfil;Sou+o+Lucas" width="70%" />
 <br><br>
 <pre>
-    💼 Front-end dev • Graduado em Sistema de Informação
+    💼 Front-end dev • Graduado em Sistemas de Informação
     💻 Mobile first • Responsive Design
     📖 User Experience (UX) e User Interface (UI)    
     🎮 Games • Music • Anime • Code
