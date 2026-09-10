@@ -12,9 +12,24 @@
 <br><br>
 
 ### Linguagens e ferramentas
-<img src="https://img.shields.io/badge/html5-F4470B.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript"/><br> <img src="https://img.shields.io/badge/react%20-7ADBF7.svg?&style=for-the-badge&logo=react&logoColor=black"/> 
-<img src="https://img.shields.io/badge/react%20native%20-212121.svg?&style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/expo-00001F.svg?&style=for-the-badge&logo=expo&logoColor=white"/>
-<br> <img src="https://img.shields.io/badge/bootstrap-523B77.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Material%20ui-007BF7.svg?&style=for-the-badge&logo=mui&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/react%20-7ADBF7.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/react%20native-212121.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/expo-00001F.svg?&style=for-the-badge&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material%20UI-007BF7.svg?&style=for-the-badge&logo=mui&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/html5-F4470B.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript"/>
+<br>
+
+<img src="https://img.shields.io/badge/laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/storybook-FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white"/>
 <br><br>
 
 ### Onde me encontrar
