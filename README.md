@@ -5,7 +5,7 @@
     💼 Front-end dev • Graduado em Sistemas de Informação
     💻 Mobile first • Responsive Design
     📖 User Experience (UX) e User Interface (UI)    
-    🎮 Games • Music • Anime • Code
+    🎮 Games • Music • Anime • Reading • Code
 </pre>
 <br><br>
 🛡️ мαу уσυя нєαят вє уσυя gυι∂ιηg кєу 🛡️
@@ -17,9 +17,9 @@
 <br> <img src="https://img.shields.io/badge/bootstrap-523B77.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Material%20ui-007BF7.svg?&style=for-the-badge&logo=mui&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <br><br>
 
-### Minhas redes sociais
+### Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-paula/)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasolvp) 
+[![E-mail](https://img.shields.io/badge/email-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasolv.dev@gmail.com)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lyunekou)
 
 <!--- ![](https://komarev.com/ghpvc/?username=lucsoliver) --->
