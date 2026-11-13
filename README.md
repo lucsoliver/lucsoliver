@@ -29,7 +29,6 @@
 
 <img src="https://img.shields.io/badge/laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/storybook-FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white"/>
 <br><br>
 
 ### Onde me encontrar
